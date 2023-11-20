@@ -6,7 +6,7 @@ This repository contains the code and data for our paper [[How Well Do Text Emb
 
 We establish an evaluation set, named **SR**, to scrutinize the capability for syntax understanding of text embedding models from two crucial syntactic aspects: **S**tructural heuristics, and **R**elational understanding among concepts.
 
-![fig2.svg](SR%20Benchmark%20for%20Text%20Embedding%20bcd77d2797894a879ac2947f7824d7a0/fig2.svg)
+![fig2.svg](fig/fig2.svg)
 
 # Data
 
