@@ -1,0 +1,335 @@
+sentence1,relation,relationscore,structure,structurescore
+malformed line * in source list /etc/apt/sources.list ( dist parse ),( dist parse )malformed line * in source list /etc/apt/sources.list ,4,"In source list /etc/apt/sources.list, there is a malformed line with a dist parse error.",4
+cant install ubuntu from usb,Ubuntu cannot be installed from a USB drive.,5,Ubuntu cannot be installed from a USB drive.,5
+what is a short cut i can use to switch applications ?,What shortcut can I use to switch between applications quickly?,5,What shortcut can I use to switch between applications quickly?,5
+"why does n't ubuntu 12.04 upgrade libreoffice , as firefox ?","Why is LibreOffice not upgraded in Ubuntu 12.04, like Firefox?",4,Why doesn't Ubuntu 12.04 upgrade LibreOffice as it does with Firefox?,5
+problem installing nvidia geforce 310m drivers,Nvidia geforce 310m drivers installing  a problem,2,There is a problem with installing Nvidia GeForce 310m drivers.,4
+unable to repair packages in ubuntu software center,The Ubuntu Software Center is unable to repair packages.,5,The Ubuntu Software Center is unable to repair packages.,5
+is it possible to downgrade gcc 4.6.1 to 4.4.x ?,Is it considered unconventional to downgrade from gcc 4.6.1 to 4.4.x in Ubuntu?,2,Is it possible to downgrade from GCC 4.6.1 to 4.4.x?,5
+upgrading from ubuntu 12.04 to 13.10,upgrading from ubuntu from 13.10 to 12.04 ,3,How can I upgrade from Ubuntu 12.04 to 13.10?,5
+how to move ubuntu installation from one hdd to another ?,How can I move my Ubuntu installation from one HDD to another in a non-conventional way?,2,What is the process for moving an Ubuntu installation from one HDD to another?,5
+change the application icon theme but not changing the panel icons,Is there a way to change the application icon theme without affecting the panel icons in an unconventional manner?,2,How can I change the application icon theme without changing the panel icons?,5
+how can i make my ubuntu bootable usb key bootable on a mac ?,How can I make my Mac bootable USB key bootable on Ubuntu?,2,How can a Mac make my Ubuntu bootable USB key bootable?,3
+wget fails to download an image,An image fails to download with wget.,5,An image fails to download with wget.,5
+"installation of amd 12.8 drivers failing , why ?",Why is the installation of AMD 12.8 drivers unsucceeding?,3,Why is the installation of AMD 12.8 drivers failing?,5
+when is precise pangolin being released ?,"The precise pangolin is being released, when?",4,When will Precise Pangolin be released?,5
+no wifi in 12.10 broadcom bcm4313 samsung rf511,Samsung RF511 Broadcom BCM4313 has WiFi in 12.10.,1,Samsung RF511 with Broadcom BCM4313 has no WiFi in 12.10.,2
+installing ubuntu serfer after ubuntu desktop,Ubuntu desktop is installed after installing Ubuntu server.,2,Can I install Ubuntu Server after Ubuntu Desktop?,5
+how do i install ubuntu software centre application ?,How do I install Ubuntu center software application?,3,How can I install the Ubuntu Software Centre application?,4
+how do i disable the guest account on ubuntu 13.10 ( saucy ),How do I enable the guest account on Ubuntu 13.10 (Saucy)?,1,How do I disable the guest account on Ubuntu 13.10 (Saucy)?,5
+passing parameters to the installer for 14.04,How can I pass parameters to the installer for 14.04?,5,How can I pass parameters to the installer for 14.04?,5
+error while trying to do sudo apt-get update,Sudo apt-get update fails with an error.,4,Sudo apt-get update fails with an error.,4
+ubuntu software center buy button does n't work,The buy button in Ubuntu Software Center doesn't work.,5,The buy button in Ubuntu Software Center is not functional.,5
+which version of ubuntu 12.04 should i go for ? 32bit or 64 bit ?,Should I opt for 32-bit or 64-bit version of Ubuntu 12.04?,5,Should I opt for 32-bit or 64-bit version of Ubuntu 12.04?,5
+can i use gnome2 themes in gnome3 ?,can i use gnome3 themes in gnome2 ?,3,Is it possible to use GNOME2 themes in GNOME3?,5
+booting error on acer aspire v572p-6858,Acer Aspire V572P-6858 is encountering booting errors.,4,Acer Aspire V572P-6858 encounters booting error.,4
+ubuntu requirements,Require ubuntu,3,What are the requirements for Ubuntu?,4
+why does n't ubuntu have any media codecs ?,Why doesn't Ubuntu come with any media codecs?,5,Why doesn't Ubuntu come with any media codecs?,5
+"encountered a section with no package : header , while updating","While updating, I came across a section with no package header.",4,"While updating, an encountered section has no package header.",4
+how to convert rpm package to a format meaningful to ubuntu,How can I convert an RPM package to a format that is compatible with Ubuntu?,5,How can I convert an RPM package to a format that is compatible with Ubuntu?,5
+install ubuntu alongside windows ?,Can I install Windows alongside Ubuntu?,3,Can I install Ubuntu alongside Windows?,5
+how many maximum cpus does ubuntu support by default ?,What is the maximum number of CPUs that Ubuntu supports by default?,5,What is the maximum number of CPUs that Ubuntu supports by default?,5
+problem with browser flash plugin,Issue with the flash plugin on the browser?,5,Flash plugin causing issues with browser,5
+nexus 7 dual-boot with android ?,Android dual-boot on Nexus 7?,4,Android dual-boot on Nexus 7?,4
+"installing ubuntu without a disk , using an external hard drive",External hard drive installation of Ubuntu without a disk,5,External hard drive installation of Ubuntu without a disk,5
+no window snapping on fresh install,Fresh install but no window snapping?,2,Fresh install lacks window snapping feature,4
+how can i remove the default indicators and add custom ones ?,Why settle for default indicators when you can add custom ones? Here's how.,3,Customizing indicators and removing default ones in Ubuntu,5
+difference between 64-bit ( native ) and amd64-mac architecture,Native 64-bit vs AMD64-mac architecture: what's the difference?,5,Native 64-bit vs AMD64-mac architecture: what's the difference?,5
+how to set google chrome as the default browser ?,Making Google Chrome the default browser: how to do it?,5,How can Google Chrome be set as the default browser?,5
+is there a way to turn off the drag to maximize thing ?,Drag to maximize getting on your nerves? Here's how to turn it off.,4,Can the drag to maximize feature be turned off?,5
+broken upgrade from 11.10 to 12.04,The upgrade from 11.10 to 12.04 is broken.,5,The upgrade from 11.10 to 12.04 is broken.,5
+ubuntu on windows 8 on hp 2000 notebook pc,Installing Ubuntu on HP 2000 notebook PC running Windows 8,5,Installing Ubuntu on HP 2000 notebook PC running Windows 8,5
+how can i move my /home directory to another partition if it 's already part of the / partition ?,"If the /home directory is already part of the / partition, how can I move it to another partition?",5,"Already part of the / partition, how can I move my /home directory to another partition?",4
+apps in ubuntu touch,Ubuntu Touch apps,5,Ubuntu Touch apps,5
+"i have no sound on my headphones , but i have sound on my speakers using ubuntu 13.04","On my headphones, I have no sound, but on my speakers using Ubuntu 13.04, I have sound.",2,Ubuntu 13.04: I have sound on my speakers but not on my headphones.,5
+replacing the openjdk with the oracle jdk,Replacing the Oracle JDK with the OpenJDK.,1,Switching from OpenJDK to Oracle JDK,5
+wireless issues on toshiba c855d satellite,Toshiba C855D Satellite: Wireless connectivity issues,5,Toshiba C855D Satellite wireless issues.,5
+loign screen ( lightdm ) background is black in ubuntu 11.10,Ubuntu 11.10's login screen (lightdm) background is black. ,4,Ubuntu 11.10: Black background on login screen (LightDM),5
+from where i download kerenl source code for version 3.8.0-29-generic,Where can I download kernel source code for version 3.8.0-29-generic?,5,Where can I download kernel source code for version 3.8.0-29-generic?,5
+how do i convert .ts files into something useful ?,How can I convert something useful into .ts files?,3,How can I convert .ts files into a usable format?,5
+how to dual boot ubuntu,How to dual ubuntu boot ,3,How to dual boot Ubuntu?,5
+running ubuntu in usb but with a lot of ram ; how to run program from ram ?,Running Ubuntu from USB with ample RAM: How to run programs from RAM?,5,Running Ubuntu from USB with ample RAM: How to run programs from RAM?,5
+ca n't watch youtube flash videos in opera browser on ubuntu,"In Opera browser on Ubuntu, unable to watch YouTube flash videos.",4,Can't watch youtube flash videos in Opera browser on Ubuntu.,5
+i ca n't download the song i just purchased,The song I just purchased cannot be downloaded.,3,The song I just purchased cannot be downloaded.,3
+i want to increase the size of my boot partition ( ubuntu 14.04 version ),My boot partition size needs to be increased (Ubuntu 14.04 version).,3,My boot partition size needs to be increased (Ubuntu 14.04 version).,3
+how to set a hard drive to mount it automatically at boot time ?,How can I set a hard drive to automatically mount at boot time?,5,How can I set a hard drive to mount automatically at boot time?,4
+"update manager showing for available updates , but not letting me to update",The update manager is showing available updates but not allowing me to update.,4,Update manager shows available updates but does not allow me to update.,4
+video not working properly on an integrated intel 82865g card,The video is not working properly on an integrated Intel 82865G card.,5,Integrated Intel 82865G card causing video to malfunction.,4
+automatic updates,Update automatics,4,Automatic updates not working.,2
+evolution 3.4.3 on 12.04 ?,Evolution 3.4.3 on 12.04,2,Can Evolution 3.4.3 be installed on 12.04?,4
+how do i dual-boot windows by default ?,How do I set Windows to dual-boot by default?,4,How do I set Windows to dual-boot by default?,5
+removed kernel by mistake,removed mistake by kernel,2,"Mistakenly, kernel removed.",2
+ogg support for ubuntu music app,ubuntu music app support for ogg,3,Ubuntu music app lacks Ogg support.,5
+how to change the color tone of the ambiance theme ?,"The color tone of the ambiance theme can be changed, how?",4,How about changing the color tone of the Ambiance theme?,4
+how can i assign an application to always open in workspace # 2 ?,Workspace #2: Assign an application to always open there?,4,How can an application be assigned to always open in workspace #2?,5
+"pulseaudio not responding , every program that tries to access it freezes",Programs that attempt to access PulseAudio freeze as it is unresponsive,4,Every program that tries to access pulseaudio freezes as it is not responding.,4
+where are unity settings stored ?,"The location of unity settings, where is it stored?",4,"The location of unity settings, where is it stored?",4
+show desktop in ubuntu launcher,Ubuntu launcher: Show desktop.,5,Ubuntu launcher: Show desktop.,5
+run ubuntu without monitor in 12.10,run ubuntu 12.10 without monitor ,3,"Run Ubuntu without a monitor in 12.10, can it be done?",4
+"ubuntu 14.04,32 or 64 bits with 2 gb of ram ?","With 2 GB of RAM, should Ubuntu 14.04 be 32 or 64 bits?",4,"With 2 GB of RAM, 32 or 64 bits for Ubuntu 14.04?",4
+downgrade ubuntu 12.10 to 12.04,How to downgrade Ubuntu 12.04 to 12.10?,3,Going back: Downgrade Ubuntu 12.10 to 12.04.,5
+howto automatically remove older package versions from a custom repository ?,"Automatically removing older package versions from a custom repository, howto?",4,Automatically removing older package versions from a custom repository: xxx,5
+how to fix 404 error installing updates ?,"Installing updates, how to fix 404 error?",4,Fixing 404 error when installing updates: xxx,5
+"upgraded to xfce 4.10 , keyboard media keys no longer work","Keyboard media keys no longer work after upgrading to xfce 4.10, what to do?",4,"After upgrading to XFCE 4.10, the keyboard media keys no longer work: xxx",5
+can you install ubuntu from the hard disk ?,Installing Ubuntu from the hard disk,5,"Installing Ubuntu from the hard disk, is it possible?",4
+flashplugin-installer vs. flashplugin-nonfree vs. adobe-flashplugin,Flashplugin-nonfree vs. flashplugin-installer vs. adobe-flashplugin,4,"Flashplugin-installer vs. flashplugin-nonfree vs. adobe-flashplugin, which one to choose?",4
+how to install and enable gnome shell ?,"Enabling and installing Gnome Shell, how to?",4,Installing and enabling GNOME Shell,5
+connect to my college 's wpa from ubuntu 14.04 lts,"Connecting to my college's WPA from Ubuntu 14.04 LTS, how to?",4,Connecting to a college's WPA from Ubuntu 14.04 LTS,5
+how to create an ubuntu 12.10 live cd ?,Creating an live CD in Ubuntu 12.10,3,"Creating an Ubuntu 12.10 live CD, how to?",4
+why are intel hd 3000 graphics ( sandy bridge ) detected as unknown ?,Why are Intel HD 3000 graphics (Sandy Bridge) detected as unknown?,5,Why are Intel HD 3000 graphics (Sandy Bridge) detected as unknown?,5
+server/nas server/ ? ? ?,nas server/server/ ? ? ?,4,Setting up a server or NAS server,5
+how can i select a sample of pictures from a camera import and move them to another folder on my system,How can I move pictures from a camera import to another folder on my system and select a sample?,4,How can I move a selection of pictures from an imported camera to another folder on my system?,4
+how do i clean install windows 7 on the `` other '' partition ?,"On the ""other"" partition, how do I perform a clean installation of Windows 7?",5,"How is Windows 7 clean installed on the ""other"" partition?",5
+upgrade from 10.10 to 11.04 on dell latitude 430,How to upgrade from 11.04 to 10.10 on Dell Latitude 430?,3,Dell Latitude 430: Upgrade from 10.10 to 11.04,3
+inspiron 15r special edition + ubuntu,inspiron  ubuntu + 15r special edition,4,Ubuntu on Inspiron 15R Special Edition,4
+problem upgrading ubuntu 9.10,upgrading ubuntu 9.10 problem ,3,Trouble upgrading Ubuntu 9.10,3
+ubuntu 13.04 with wubi works,Wubi works with Ubuntu 13.04,4,Wubi works with Ubuntu 13.04,5
+want entry as root at login screen to do backups via deja-dup gui,What is the process for getting root access at login screen to do backups via Deja-Dup GUI?,4,How to have root entry at login screen to perform backups via Deja-Dup GUI?,5
+upgrade 12.04 to 12.04.1,Is it necessary to upgrade from 12.04 to 12.04.1?,2,Upgrade from 12.04 to 12.04.1,3
+can anyone tell me how to make guake terminal be part of the start-up applications ?,Is it possible to have Guake terminal as a start-up application?,5,How can I make Guake Terminal a part of the startup applications?,5
+`` starting jack server ... can not connect to server socket err = no such file or directory '',"Is there a way to fix the error message ""Starting Jack server... can not connect to server socket err = no such file or directory""?",4,"""No such file or directory"" error: Starting Jack server... can't connect to server socket.",4
+how to install skype in ubuntu 13.10 ?,How to uninstall Skype in Ubuntu 13.10?,3,"In Ubuntu 13.10, how do I go about installing Skype?",5
+how to extract a package and all related dependencies from ubuntu install cd,how to extract all related dependencies and a package from ubuntu install cd,4,"From the Ubuntu installation CD, how can I extract a package and all its related dependencies?",5
+how can i make an ubuntu recovery image on external media ?,how can i make an ubuntu recovery image on media external ?,5,"In Ubuntu, how do I create a recovery image on external media?",5
+ubuntu virtualbox display driver ?,display driver ubuntu virtualbox ?,5,How can I install the display driver for Ubuntu VirtualBox?,5
+what mass file renaming tools are available ?,what file renaming tools mass are available ?,5,What are the available tools for renaming mass files?,5
+no save dialog appears when i hit printscreen,no dialog save appears when i hit printscreen,4,"Whenever I hit print screen, there is no save dialog that appears. What should I do?",5
+what to do if disk utility shows bad sectors pending in smart ?,what to do if utility disk shows bad sectors pending in smart ?,4,"If Disk Utility shows bad sectors pending in SMART, what steps should I take?",5
+the new ubuntu upgrade ( 13.04 ) wont let me connect to wi-fi,the new ubuntu upgrade ( 13.04 ) wont let me connect to wi-fi,5,Can someone help me fix the Wi-Fi connection issue after upgrading to Ubuntu 13.04?,5
+is there a weather indicator ?,is there an indicator weather ?,4,Is there an indicator for weather in Ubuntu?,5
+change owner of internal hard drive partition from root to user,change owner of internal hard drive partition from user to root,2,How can I change the owner of an internal hard drive partition from root to user?,5
+can i run ubuntu one in a ubuntu server environment ?,can i run ubuntu one in an environment ubuntu server ?,4,Can an Ubuntu server environment run Ubuntu One?,4
+where to find new splash screens ? ubuntu 13.10,The cat chases the dog.,4,Ubuntu 13.10: Where can new splash screens be found?,5
+does ubuntu have a graphical software to compare and merge differences in files ?,He heard she talked to the teacher,4,Is there a graphical software in Ubuntu to compare and merge differences in files?,4
+how can i add more workspaces ?,Mental health improves exercise.,3,How can more workspaces be added?,4
+is it possible to run four os 's on a single laptop with 1tb hdd and 8gb ram,Physical flexibility is enhanced by yoga.,4,Can a single laptop with 1TB HDD and 8GB RAM run four OS's?,4
+flash player ( in firefox ) is unstable in 14.04,"Today, new legislation was proposed in Congress.",2,"In 14.04, Flash player (in Firefox) is unstable.",5
+"convert downloaded youtube videos ( downloaded with youtube-dl ) to audio-only , with no loss ?",A horse is ridden by a man.,4,How can I convert YouTube videos downloaded with youtube-dl to audio-only without any loss?,5
+how do i uninstall windows xp from my ntfs if i have ubuntu installed there as well,ubuntu 13.10 where to find new splash screens ?,3,"If I have Ubuntu installed on my NTFS, how do I uninstall Windows XP?",4
+update ubuntu 11.10 without internet connection,does ubuntu have a software to compare and merge differences in files graphically ?,2,How to update Ubuntu 11.10 without an internet connection?,5
+will upgrading windows 8 to 8.1 affect ubuntu ?,is it possible to run four os 's on a laptop single with 1tb hdd and 8gb ram,4,Will upgrading Ubuntu affect Windows 8.1?,4
+upgrading ubuntu via mounted iso,Upgrading ubuntu via mounted iso,4,"Upgrading via mounted ISO, Ubuntu.",5
+ubuntu 12.04.3 download,Download ubuntu 12.04.3,4,Download Ubuntu 12.04.3.,5
+how to upgrade/downgrade from 12.04 to 11.10,How to downgrade/upgrade from 11.10 to 12.04,2,How to downgrade/upgrade from 12.04 to 11.10?,4
+reinstall ubuntu 12.04 without losing data,Reinstall ubuntu 12.04 with data preservation,3,Reinstalling Ubuntu 12.04 without losing any data.,4
+"dell inspiron 1525 , upgraded to 12.04 and have lost wireless internet connection",Upgraded dell inspiron 1525 to 12.04 and now facing wireless internet connection loss,3,Dell Inspiron 1525 lost wireless internet connection after upgrading to 12.04.,5
+how do i enable ctrl-alt-backspace to kill the x server ?,How to enable killing the x server using ctrl-alt-backspace ?,3,How to kill the X server by enabling Ctrl-Alt-Backspace?,4
+how to disable amazon lense in 14.04 ?,Disable amazon lense in 14.04,4,How to enable/disable Amazon Lens in 14.04?,4
+hourly crashes 14.04,14.04 facing hourly crashes,2,Crashes occur hourly at 14.04.,2
+how do i remove ubuntu and install windows 7 ?,how do i remove windows 7 and install ubuntu ?,3,How can I break away from Ubuntu and install Windows 7?,4
+how do i remove ugly google chrome icon in the gnome3 applications tab ?,how do i remove gnome3 applications tab in the ugly google chrome icon ?,1,How can I remove the unsightly Google Chrome icon from the GNOME3 applications tab?,4
+unable to find a medium containing a live file system,unable to find a live file system containing a medium,2,A live file system cannot be found on any medium.,3
+how to enable webgl in chrome on ubuntu ?,how to enable chrome on ubuntu in webgl ?,1,How can WebGL be enabled in Chrome on Ubuntu?,4
+how to make a script which always activates on the startup ?,how to make a script which always activates on startup the ?,1,How can I create a script that always activates on startup?,3
+unable to install ubuntu 7.10 to hp pavilion p6 2335 il desktop,unable to install hp pavilion p6 2335 il desktop to ubuntu 7.10 the,2,The installation of Ubuntu 7.10 on an HP Pavilion P6 2335 IL desktop has failed.,3
+wireless card does n't work for an hp dv2104,wireless card does n't work for an dv2104 hp,1,The wireless card on an HP DV2104 is not functioning.,2
+the following packages have unmet dependencies ( kde ),the following packages have ( kde ) unmet dependencies,2,(KDE) has unmet dependencies in the following packages.,3
+raring ringtail upgrade,ringtail upgrade raring,1,Upgrading to Raring Ringtail.,3
+when installing ubuntu through virtual box i get an error,when installing i get an error ubuntu through virtual box,2,Getting an error occurs when installing Ubuntu through Virtual Box.,2
+is running latest firefox on older versions of ubuntu possible ?,Is running the latest version of Ubuntu possible on older versions of Firefox?,4,Possible to run the latest Firefox on older versions of Ubuntu?,3
+reallocated sector count - is drive failure really imminent ?,Can drive failure really be imminent due to a reallocated sector count?,4,Is the drive failure really imminent due to the reallocated sector count?,2
+add themes in ubuntu 11.10,How to add themes in Ubuntu 11.10,4,Adding themes in Ubuntu 11.10.,4
+where to suggest user experience enhancements ?,Where can I suggest user experience enhancements?,4,Where can suggestions for user experience enhancements be made?,4
+writing iso to usb,How can I write an ISO to a USB?,4,How to write ISO to USB?,4
+how i increase wubi install to 100 giga,How can I increase the size of a Wubi install to 100 GB?,4,How to increase Wubi install to 100 gigabytes?,4
+fan running at full speed using xorg drivers,How to reduce the fan speed when using xorg drivers,1,Xorg drivers causing the fan to run at full speed.,4
+heartbleed bug in ubuntu 13.04,What is the Heartbleed bug in Ubuntu 13.04?,3,Ubuntu 13.04 affected by the Heartbleed bug.,3
+how can i force ubuntu to boot on a stuck boot menu ?,How can I force Ubuntu to boot when it is stuck on a boot menu?,2,"On a stuck boot menu, how can I force Ubuntu to boot?",5
+magento : php extension `` curl '' must be loaded,php extension `` curl '' must be loaded : magento,4,"The PHP extension ""curl"" must be loaded for Magento.",3
+"on 13.10 , where is my dropbox icon",where is my dropbox icon : on 13.10,3,Where is my Dropbox icon on 13.10?,4
+wifi not working on asus u32 with ubuntu 14.04,asus u32 with ubuntu 14.04 : wifi not working on,2,"Asus U32 with Ubuntu 14.04, WiFi not working.",2
+lenovo z510 ubuntu black scrren,ubuntu black scrren : lenovo z510,1,Ubuntu black screen on Lenovo Z510.,4
+"could n't update ubuntu 8.04 , apt-get update fails",apt-get update fails : could n't update ubuntu 8.04,2,"Ubuntu 8.04 update failed, apt-get update fails.",2
+where are launchable programs installed ?,launchable programs installed ? : where are,4,Where are the installed launchable programs located?,5
+how do i uninstall a dual boot 11.10 ?,uninstall a dual boot 11.10 ? : how do i,3,How to uninstall a dual boot 11.10?,4
+how to convert a configured ubuntu system to an unlimited iso ?,to an unlimited iso ? : how to convert a configured ubuntu system,1,How to convert a configured Ubuntu system to an unlimited ISO?,3
+a possible java problem causing a java program to not work ?,causing a java program to not work ? : a possible java problem,2,Is a possible Java problem causing a Java program to not work?,4
+netflix wo n't load,load n't wo netflix,0,Will Netflix not load?,2
+black screen after installation with wubi,installation with wubi after black screen,0,"After installation with Wubi, a black screen appears.",4
+setup intel graphics 4000 on ubuntu 14.04,on ubuntu 14.04 setup intel graphics 4000,0,How to set up Intel Graphics 4000 on Ubuntu 14.04?,5
+.desktop file not working,working .desktop file not,0,Why is the desktop file not working?,2
+what distro of ubuntu to choose when i focus on performance ? kubuntu ?,when i focus on performance what distro of ubuntu to choose ? kubuntu ?,0,Which Ubuntu distro should I choose for better performance? Kubuntu?,3
+how to install firefox 14.0.1 ( or any other latest version ) on ubuntu 10.10 ?,on ubuntu 10.10 how to install firefox 14.0.1 ( or any other latest version ) ?,0,How to install Firefox 14.0.1 (or any other latest version) on Ubuntu 10.10?,4
+how to share files using a wireless network ?,using a wireless network how to share files ?,0,What is the process to share files using a wireless network?,2
+"when attempting to install ubuntu 12.04 from cd , i am stuck on black streen with `` loading bootlogo ... ''","from cd , i am stuck on black screen with `` loading bootlogo ... '' when attempting to install ubuntu 12.04",0,"Are you stuck on a black screen with ""loading bootlogo..."" when attempting to install Ubuntu 12.04 from CD?",5
+which version should i use for i3-2100 ?,for i3-2100 which version should i use ?,0,"For i3-2100, which version should I use?",5
+unable to login to 14.04 after successful installation,"After successful installation, unable to login to 14.04.",4,"After a successful installation, unable to login to 14.04.",5
+find what package supplied a tool / application in ubuntu 11.10,Find what tool / application in ubuntu 11.10 was supplied by a package.,4,"In Ubuntu 11.10, find the package that supplied a tool/application.",5
+what is the easiest method to share files between windows and ubuntu ?,What is the easiest method to share files between ubuntu and windows?,5,What is the easiest way to share files between Windows and Ubuntu?,4
+how to install ubuntu alongside windows 8,How to install windows 8 alongside ubuntu.,1,How to install Ubuntu alongside Windows 8?,5
+home directory copy from 1 machine to another,Copy home directory from one machine to another.,5,Copy the home directory from one machine to another.,5
+no icons or anything on desktop, no icons or anything on desktop.,4,There are no icons or anything on the desktop.,4
+ubuntu 13.10 installation wo n't start . instead i get a black screen," ubuntu 13.10 installation won't start. instead, i get a black screen. ",3,"Ubuntu 13.10 installation won't start, instead, a black screen appears.",2
+installing drivers for my wireless adapter, drivers for my wireless adapter installing. ,3,How to install drivers for my wireless adapter?,4
+can removing gufw create dangers for my system ?, removing gufw can create dangers for my system?. ,2,Can removing gufw create dangers for my system?,5
+what is wubi ? how does it work ?,wubi is what? how does it work?. ,1,How does Wubi work? What exactly is it?,4
+where to set environment variables for all users, to set environment variables for all users where. ,1,Where can environment variables be set for all users?,5
+is it legal to install msttcorefonts package ? is wine legal ?,is it legal to install package msttcorefonts? is wine legal?. ,2,Is it legal to install the msttcorefonts package? What about Wine?,5
+will i be able to upgrade to 13.04 from 12.10 with a wubi installation ?,will i be able to upgrade from 12.10 to 13.04 with a wubi installation?. ,3,Can a Wubi installation be upgraded from 12.10 to 13.04?,5
+ubuntu download errors ?,download errors ubuntu?. ,1,What are some common Ubuntu download errors?,4
+keyboard not working at grub,grub not working at keyboard,2,"At the GRUB menu, why is the keyboard not working?",5
+banshee crashes with `` an unhandled exception was thrown : '',an unhandled exception was thrown : '' with banshee crashes,1,"What could be causing Banshee to crash with the error message ""An unhandled exception was thrown""?",3
+network manager icon not visible in system tray,system tray not visible in network manager icon,2,Why is the network manager icon not visible in the system tray?,4
+how to make the unity launcher always visible ?,how to make the unity launcher visible always ?,5,How can I make the Unity launcher always visible?,5
+how to automount ntfs partitions ?,how to partitions ntfs automount?,4,How to mount NTFS partitions automatically?,5
+how do you install after download ?,how do you download after install?,2,"After downloading, how do you install the software?",3
+how do i install additional drivers with both wired and wireless failing ?,how do i install additional drivers with both wireless and wired failing?,4,"With both wired and wireless failing, how can I install additional drivers?",5
+how to change default python version from terminal ?,how to change python default version from terminal?,3,How can I change the default Python version from the terminal?,5
+how can i activate unity ?,how can unity activate i?,1,"Unity, how can I activate it?",3
+is there way to accelerate package downloads in slow connections ?,is there way to downloads package in accelerate slow connections?,2,Is there a way to speed up package downloads on slow connections?,3
+why does update manager give me a 404 error with these google repositories ?,why does update manager give me a 404 error with google these repositories?,4,Why do these Google repositories give me a 404 error in update manager?,4
+how do i setup dual monitors in xfce ?,how do i setup xfce in dual monitors?,3,How do I set up dual monitors in XFCE?,5
+bookmarked shares on a home server constantly disappearing after shutdown,bookmarked shares on a home server disappearing constantly after shutdown,3,The bookmarked shares on a home server keep disappearing after shutdown.,2
+want to install ubuntu 12.04 new on ssd for / and hdd for /home but keep all settings,want to install ubuntu 12.04 new on ssd for /home and hdd for / but keep all settings,4,Installing Ubuntu 12.04 new on SSD for / and HDD for /home while keeping all settings?,3
+the system is running in low graphics mode,running in low graphics mode is the system,4,The low graphics mode is running on the system.,4
+what is the difference between installing ubuntu on a usb device and a laptop hardisk ?,what is the difference between installing ubuntu on a laptop hardisk and a usb device ?,4,What is the difference between installing Ubuntu on a USB device and a laptop hard disk?,4
+"10.04 install flash player , get white screen","get white screen, 10.04 install flash player",4,"After installing Flash Player on 10.04, I get a white screen.",3
+no ubuntu partitions on installed dual boot system,"on installed dual boot system, no ubuntu partitions",4,The installed dual boot system has no Ubuntu partitions.,5
+what drivers should i use for my printer ?,what drivers should i use for my printer ?,5,Which drivers should I use for my printer?,4
+how can i switch a 32-bit installation to a 64-bit one ?,how can i switch a 64-bit installation to a 32-bit one ?,2,How can I switch from a 32-bit installation to a 64-bit one?,2
+apt sources.list disabled on upgrade to 12.04,"on upgrade to 12.04, apt sources.list disabled",4,The apt sources.list is disabled after upgrading to 12.04.,2
+how do i add classical categories in unity 's dash ?,how do i add classical categories in unity 's dash ?,5,How do I add classical categories in Unity's dash?,5
+wubi grub prompt `` minimal bash-like line editing is supported '',"`` minimal bash-like line editing is supported '', wubi grub prompt",4,"Prompted by the wubi grub, ""minimal bash-like line editing is supported"".",5
+big ugly icons in notification area,Icons in notification area are big and ugly.,3,The notification area has big and ugly icons.,4
+what alternatives are available to replace the purple boot splash screen ?,What alternatives are available to replace the boot splash screen that is purple?,4,Are there any alternatives available to replace the purple boot splash screen?,5
+wireless is disabled in 12.04 ubuntu,"In 12.04 Ubuntu, wireless is disabled.",4,"In Ubuntu 12.04, wireless is disabled.",5
+how to execute a script just by double clicking like .exe files in windows ?,"How to execute a script by double clicking, similar to .exe files in Windows?",4,"How can I execute a script just by double-clicking, similar to .exe files in Windows?",5
+how can i manually edit the unity top panel ?,How can I edit the unity top panel manually?,4,The Unity top panel can be manually edited by how?,4
+why is the firewall disabled by default ?,Why is the firewall disabled by default?,5,"By default, why is the firewall disabled?",4
+what is the ubuntu `` built in virus protection '' ?,What is the built-in virus protection in Ubuntu?,4,What is the built-in virus protection in Ubuntu?,4
+just installed security updates now all i get is a white screen,"After installing security updates, all I see is a white screen.",4,"After installing security updates, all I get is a white screen.",2
+is there a way to change my home folder to encrypted after upgrading to 12.04,"After upgrading to 12.04, is there a way to encrypt my home folder?",4,Is it possible to encrypt my home folder after upgrading to 12.04?,5
+run 12.04 from usb with no hard disk usage,Run 12.04 from USB without using the hard disk.,4,"With no hard disk usage, run 12.04 from USB.",5
+how do i use ubuntu 's web application integration ?,how do i use web application integration 's ubuntu ?,3,"Ubuntu's web application integration, how do I use it?",4
+replace windows with ubuntu with iso burned onto disk ?,replace ubuntu with windows with iso burned onto disk ?,3,"Burned onto disk, replace Windows with Ubuntu with ISO?",4
+how do i mount a hibernated ntfs partition ?,how do i mount a ntfs partition hibernated ?,4,How do I mount a hibernated NTFS partition?,5
+automatically size windows using xfce like in gnome,automatically size xfce using windows like in gnome,4,"Like in Gnome, automatically size Windows using Xfce.",4
+is there a shortcut key for accessing the menu bar ?,is there a shortcut key for accessing the bar menu ?,2,Is there a shortcut key to access the menu bar?,5
+fresh install of ubuntu 12.10 wo n't boot on asus x101ch eee pc,fresh install of ubuntu 12.10 eee pc wo n't boot on asus x101ch,3,Asus X101CH Eee PC won't boot on fresh install of Ubuntu 12.10.,2
+how to install adium theme for pidgin ?,how to install pidgin theme for adium ?,1,How to install Adium theme for Pidgin?,4
+how can i install ubuntu on a pc preinstalled with windows 8 on samsung np370r5e-s04in,how can i install ubuntu on a pc preinstalled with samsung np370r5e-s04in windows 8 on ?,3,"Preinstalled with Windows 8 on Samsung NP370R5E-S04IN, how can I install Ubuntu on a PC?",3
+how can we get the command line of a running application ?,how can we get the line command of a running application ?,4,How can the command line of a running application be obtained?,4
+what are some of the issues with ccsm and why would i want to avoid it ?,what are some of the issues with avoid ccsm and why would i want to it ?,2,What are some of the issues with CCMS and why would it be avoided?,5
+install ubuntu packages to other machine ?,install other machine to ubuntu packages ?,3,Can I transfer Ubuntu packages to another machine and how?,3
+installed 12.04 on lenovo x120e now i ca n't boot,installed 12.04 on lenovo x120e now can't i boot,5,"After installing 12.04 on Lenovo X120e, why can't I boot it?",5
+how can i set ask ubuntu website as desktop live wallpaper ?,how can i set desktop live wallpaper as ask ubuntu website ?,2,How can I set the Ask Ubuntu website as my desktop live wallpaper?,4
+"can not update , can not reinstall dkms","can not reinstall dkms, can not update",4,I am unable to update or reinstall DKMS.,3
+whats the difference between ubuntu 11.10 and ubuntu 11.10 server version ?,whats the difference between ubuntu 11.10 server version and ubuntu 11.10 ?,5,What is the difference between Ubuntu 11.10 and Ubuntu 11.10 server version?,4
+chrome and firefox not loading flash plugin ( could n't load plug-in ),firefox and chrome not loading flash plugin ( couldn't load plug-in ),4,Flash plugin not loading on Chrome and Firefox (plug-in couldn't be loaded).,3
+change boot entry names and grub background ?,change grub background and boot entry names ?,5,How can I change the boot entry names and the Grub background?,4
+how do i quit banshee ?,how do i quit banshee ?,5,What is the process to quit Banshee?,2
+how to install 32 bit wine on 64 bit ubuntu ?,how to install 64 bit wine on 32 bit ubuntu ?,1,How can I install 32-bit Wine on 64-bit Ubuntu?,4
+i need help uninstalling ubuntu please help,please help i need help uninstalling ubuntu,4,"Uninstalling Ubuntu, I need help, please.",5
+rosetta stone permissions problem,permissions problem rosetta stone,4,Problem with permissions for Rosetta Stone.,2
+how can i boot ubuntu from a usb ?,how can i boot ubuntu from a usb ?,4,"From a USB, how can I boot Ubuntu?",4
+how to remove unity and the default desktop environment of ubuntu,how to remove unity and the default desktop environment of Ubuntu?,3,"Removing Unity and the default desktop environment of Ubuntu, how to?",5
+netflix wont work without new silverlight update,Netflix won't work without updating Silverlight.,4,Netflix requires a new Silverlight update to work.,4
+troubleshooting blank ld_library_path,troubleshooting LD_LIBRARY_PATH when it is blank.,4,Troubleshooting blank LD_LIBRARY_PATH.,4
+how to make the keyboard media keys to work with vlc globally ?,how to make VLC work with the media keys on the keyboard globally?,4,"Globally, how to make the keyboard media keys work with VLC?",5
+why there is no shell ?,why is there no shell?,4,Why is there no shell?,4
+wubi gives error 'nonetype ' object has no attribute 'get_info ',Wubi gives an error 'Nonetype' object get_info has no attribute.,2,Wubi gives an error: 'Nonetype' object has no attribute 'get_info'.,2
+nvidia geforce 9600m gt not enabled,The enabling of NVIDIA GeForce 9600M GT is not supported.,3,The Nvidia GeForce 9600M GT is not enabled.,4
+install ubuntu from usb drive,how to install Ubuntu using a USB drive?,4,"From USB drive, install Ubuntu.",5
+how to write arabic numerical on libreoffice ?,how to write numerical arabic on libreoffice ?,5,"On LibreOffice, how to write Arabic numerals?",5
+setting desktop background with gconftool-2,setting gconftool-2 desktop background with,3,"Using gconftool-2, set desktop background.",4
+hide program entry 's in sound indicator,hide 's program entry in sound indicator,2,Sound indicator: hide program entries.,4
+how set external webcam as a default webcam ?,how set default webcam as an external webcam ?,4,How to make an external webcam the default webcam?,3
+how to configure samba file server for sharing between ubuntu pc 's,how to configure samba file server for sharing between pc ubuntu 's,5,Configure Samba file server for sharing between Ubuntu PCs.,2
+dual boot ubuntu 14 .04lts,dual boot 14 .04lts ubuntu,4,Dual boot Ubuntu 14.04 LTS.,4
+how can i get a more traditional drop-down like menu for unity ?,how can i get a more traditional menu like drop-down for unity ?,4,How can I get a less conventional menu for Unity?,2
+how do i make update manager work,how do i work make update manager,3,How can Update Manager be made to work?,2
+how do i free up more space in /boot ?,how do i free up space in /boot more ?,3,How can I create more space in /boot?,4
+what happened to my launcher icon size slider in settings > appearance and how can i get it back ?,what happened to my settings > appearance launcher icon size slider and how can i get it back ?,4,How can I retrieve my launcher icon size slider in Settings > Appearance?,4
+ubuntu on lenovo yoga 2 pro,lenovo yoga 2 pro on ubuntu,4,Ubuntu on Lenovo Yoga 2 Pro: Is it possible?,2
+where do i put this code to install absynth 5 ?,where do i put this code to install 5 absynth ?,2,Where should I insert this code to install Absynth 5?,3
+downgrade from one version to a previous version ?,downgrade from a previous version to one version ?,2,How can I revert to a previous version from the current one?,2
+freeing up partition space,partition space freeing up,2,How can partition space be freed up?,3
+connecting a nexus 7 to ubuntu,connecting ubuntu to a nexus 7,2,How can I connect a Nexus 7 to Ubuntu?,4
+i ca n't get into the sudoers listings,i can't get into the listings sudoers,2,Why am I unable to access the sudoers listings?,2
+how can i schedule a nightly reboot ?,How can I schedule a reboot every night?,4,Is it possible to schedule a daily reboot?,2
+ubuntu 13.10 network connectivity issues,Network connectivity issues in Ubuntu 13.10,3,Ubuntu 13.10 network connectivity issues resolved?,2
+how can i configure gnome shell notification settings ?,How can I configure notification settings in GNOME Shell?,4,How can I configure Gnome Shell notification settings differently?,2
+correct way to install virtual dependency,What is the correct way to install a virtual dependency?,4,What is the correct way to install virtual dependency?,2
+"nvidia driver , black login screen",Black login screen after installing Nvidia driver,4,Black login screen after installing Nvidia driver?,2
+how to install xfce in ubuntu 11.10,How can I install XFCE in Ubuntu 11.10?,4,Is it possible to install Xfce in Ubuntu 11.10?,3
+update manager refuses to update,Update manager is refusing to update,4,"Update manager refusing to update, what to do?",3
+/etc/x11/xorg.conf does n't exist ?,/etc/x11/xorg.conf does not exist?,4,Does /etc/x11/xorg.conf exist?,3
+ubuntu 12.04 does n't boot from usb,Ubuntu 12.04 does not boot from USB,4,"Doesn't boot from USB, Ubuntu 12.04.",5
+how to upgrade 12.4 to 13.10,how to upgrade 13.10 to 12.4,2,"Upgrade 12.4 to 13.10, how to?",4
+some index files failed to download,download failed to some index files,3,Download of some index files failed.,3
+mounting iphone 4,iphone 4 mounting,5,iPhone 4 mounting.,4
+speed internet connection up ?,up speed internet connection ?,0,Up the speed of internet connection?,3
+how to disable encrypted home directory ?,how to disable home directory encrypted ?,2,"Encrypted home directory, how to disable?",4
+download apps from ubuntu software center and run in windows 7,download apps from windows 7 and run in ubuntu software center,2,Run apps downloaded from Ubuntu Software Center on Windows 7.,4
+how to do partition in ubuntu 14.04 ?,how to partition in ubuntu 14.04 ?,4,How to partition in Ubuntu 14.04?,2
+run a command after a specific usb was plugged in,a command was plugged in after a specific usb run,0,"After a specific USB is plugged in, run a command.",5
+ubuntu 12.04 / 12.10 randomly freezing - nvidia ?,ubuntu randomly freezing - nvidia 12.04 / 12.10 ?,4,Nvidia? Ubuntu 12.04/12.10 randomly freezing.,5
+alps touchpad on dell inspiron i15rn-3647bk with ubuntu 11.10 x64,alps touchpad on ubuntu 11.10 x64 with dell inspiron i15rn-3647bk,3,"Dell Inspiron i15rn-3647bk with Ubuntu 11.10 x64, Alps touchpad.",4
+is there a way to find duplicate images in ubuntu ?,is there a way to find duplicate images in ubuntu ?,5,How can I find duplicate images in Ubuntu?,2
+convert .jar to executable,convert .jar to executable,4,Executable conversion from .jar.,2
+`` a error occurred during the signature verification . '' during apt-get update,"during apt-get update, `` a error occurred during the signature verification . ''",4,"During apt-get update, ""A signature verification error occurred.""",2
+change default 'open with ' for document folder,"for document folder, change default 'open with '",5,"For the document folder, change the default ""open with.""",2
+give permission to /var/www,"to /var/www, give permission",5,How do I give permission to /var/www?,3
+boot to a black screen but recovery mode boot works,"but recovery mode boot works, boot to a black screen",3,"Black screen on boot, but recovery mode works.",3
+"error out of disk , grub rescue","grub rescue, error out of disk",5,Grub rescue error: Out of disk.,2
+ubuntu 12.4 will not update [ unmet dependencies ],"[ unmet dependencies ], ubuntu 12.4 will not update",4,[Unmet dependencies] prevent Ubuntu 12.4 from updating.,4
+how do i install the driver for a microsoft lifecam vx-3000 ?,how do i install the driver for a lifecam vx-3000 microsoft ?,4,How can I install the driver for a Microsoft Lifecam VX-3000?,4
+connect my galaxy s duos phone as mass storage or drivers,connect my galaxy s duos phone as drivers or mass storage,4,How to connect my Galaxy S Duos phone as mass storage or drivers?,4
+where and how do i find the *desktop*.iso file needed to install universal usb installer ? i need it to install ubuntu,how and where do i find the *desktop*.iso file needed to install universal usb installer ? i need it to install ubuntu,4,Where and how can I find the *desktop*.iso file required to install Universal USB Installer for Ubuntu installation?,2
+make gedit embedded terminal colours the same as the default terminal,make gedit embedded terminal the same as the default terminal colours,4,Make Gedit embedded terminal colors the same as the default terminal.,2
+heartbleed ubuntu 13.04 stuck on openssl 1.0.1c,heartbleed ubuntu 13.04 stuck on 1.0.1c openssl,3,Heartbleed Ubuntu 13.04 is stuck on OpenSSL 1.0.1c.,2
+how do i find out where are command line commands installed ?,how do i find out where command line commands are installed ?,4,Where are the installed command line commands located?,3
+ubuntu took away permissions from my data partition,My data partition took away permissions from Ubuntu.,3,My data partition's permissions were taken away by Ubuntu.,2
+sharing subfolders with ubuntu one,Sharing ubuntu one with subfolders.,2,Ubuntu One: How to share subfolders?,4
+how to free up space on /boot ?,How to free up space on /boot?,5,What is the process to free up space on /boot?,5
+installer gets stuck with a grayed out forward button,Installer gets stuck with a forward button that is grayed out.,4,The installer's forward button is grayed out and stuck.,5
+advantages/disadvantages of installing from source code,Installing from source code: advantages/disadvantages.,4,What are the pros and cons of installing from source code?,4
+how do i get grub to install on a raid array ?,Getting Grub to install on a raid array: how do I?,4,How can I get Grub to install on a RAID array?,4
+ubuntu install erased windows,Windows erased ubuntu install.,1,"Ubuntu installation erased Windows, what to do?",4
+constant crashes and freezes after upgrade to 12.04,Crashes and freezes constantly after upgrade to 12.04.,4,"After upgrading to 12.04, constant crashes and freezes.",4
+how to prevent unity dash from taking keyboard control,How to prevent keyboard control from being taken by unity dash.,1,How to stop Unity Dash from taking control of the keyboard?,4
+disable the confirmation of shutdown,Disabling the confirmation of shutdown.,3,"Confirmation of shutdown, disable it.",5
+any command line calculator for ubuntu ?,ubuntu for line command calculator any ?,4,Is there any command line calculator available for Ubuntu?,2
+why does the ubuntu software center deliver an outdated version of tex live ?,why does the software center ubuntu deliver an outdated version of tex live ?,5,Why is the Ubuntu Software Center providing an outdated version of Tex Live?,5
+unity does not start in ubuntu 13.04,ubuntu does not start in unity 13.04,3,Ubuntu 13.04 is unable to start Unity.,4
+what is the password for `` ssh root @ localhost `` ?,what is the password for root ssh @ localhost ?,2,"What is the password for ""ssh root@localhost""?",5
+"wubi install was fine . weeks later , i can not boot into ubuntu . can i now try to boot via disk or usb and still have access to my files ?","wubi install was fine . weeks later , i can not boot into ubuntu . can i now try to boot via usb or disk and still have access to my files ?",4,"After a successful Wubi install, I am unable to boot into Ubuntu weeks later. Can I try to boot via disk or USB and still have access to my files?",2
+installing ubuntu on another hard drive disk ( f : ),installing ubuntu on another disk drive hard ( f : ),4,"Another hard drive disk (F:), how to unconventionally install Ubuntu on it?",2
+how do i recover my root password ?,how do i recover my password root ?,2,Recovering my root password - how?,4
+how to install amd ati radeon graphics hd 6770m,install how to ati radeon graphics hd 6770m amd,3,Installing AMD ATI Radeon Graphics HD 6770M - how to?,4
+compiz crash leaves no usable interface,compiz crash leaves interface no usable,4,No usable interface due to Compiz crash - what to do?,4
+reasons why not to update an ubuntu version to a newer/older kernel version,reasons why not to update a newer/older kernel version an ubuntu version,5,What are the reasons for not updating an Ubuntu version to a newer/older kernel version?,4
+how to solve the 'nodata ' ( does the network require authentication ? ) problem ?,solve how to the 'nodata ' ( does the network require authentication ? ) problem ?,5,'Nodata' problem - how to solve it? Does the network require authentication?,2
+how to share wine with other machine ?,how to share other machine with wine ?,2,Sharing wine with another machine - how to?,2
+"how would i install ubuntu on a disk already containing windows 7 , not dual booting",how would i install ubuntu on a disk not dual booting already containing windows 7,4,"Installing Ubuntu on a disk already containing Windows 7, without dual booting - how?",2
+that i 'm must change or add to the grub for the disappearance of a black screen ?,that i 'm must add or change to the grub for the disappearance of a black screen ?,2,What changes or additions must be made to the Grub for the disappearance of a black screen?,2
+possible memory leak on ubuntu 10.04 lts,possible memory leak on ubuntu lts 10.04,4,Is there a possible memory leak on Ubuntu 10.04 LTS?,3
+what 's the visual difference between unity 3d and unity 2d ?,what 's the visual difference between unity 2d and unity 3d ?,5,What is the visual difference between Unity 3D and Unity 2D?,3
+how can i get thunderbird contacts to sync with ubuntu one ?,how can i get ubuntu one to sync with thunderbird contacts ?,3,How can Ubuntu One sync with Thunderbird contacts?,3
+a problem with conky in gnome 3.4,gnome 3.4 with a problem in conky,4,Gnome 3.4 has a problem with Conky.,2
+is it possible to have two different dpi configurations for two different screens ?,is it possible to have two different configurations for two different screens with dpi ?,4,Can different screens have different DPI configurations?,3
+firefox application associations not working,application associations not working in firefox,4,Firefox's application associations are not functioning.,2
+how to install stable `` gnome shell 3.6 '' for ubuntu 12.04 ?,how to install gnome shell 3.6 for ubuntu 12.04 ?,4,"Installing stable ""Gnome Shell 3.6"" on Ubuntu 12.04 - how to do it?",3
+method to create a live usb disk ( with persistence ) which actually works ?,method to create a live usb disk ( with persistence ) that actually works ?,4,Creating a live USB disk with persistence - any reliable methods?,2
+how to change a password,how to change a password,5,Changing a password - how to do it?,2
+"should i install programs from a source tarball ( `.tar.gz` ) , from the ubuntu software centre , or from elsewhere ?","should i install programs from the ubuntu software centre, from a source tarball ( `.tar.gz` ), or from elsewhere ?",3,"Installing programs - from source tarball, Ubuntu Software Centre, or elsewhere?",2
+installing packages in multiple systems,packages in multiple systems installing,2,How can I install packages on multiple systems?,2
+how to avoid opening duplicate files in new windows in gedit ?,how to avoid opening duplicate files in gedit in new windows ?,2,How can I prevent Gedit from opening duplicate files in new windows?,3
+ubuntu keeps freezing but mouse still moves,"But mouse still moves, ubuntu keeps freezing",4,"Despite freezing, the mouse still moves in Ubuntu.",2
+where can i find a repository for older unsupported releases ?,"For older unsupported releases, where can I find a repository?",4,"Where can I find a repository for older, unsupported releases?",3
+can i use all my ram for application data ?,"For application data, can I use all my RAM?",4,Can I allocate all my RAM for application data?,2
+need help creating shortcuts on the desktop in ubuntu,"On the desktop in Ubuntu, need help creating shortcuts",4,Creating shortcuts on the desktop in Ubuntu requires assistance.,4
+"gnome-shell , how to fix it ?",How to fix gnome-shell?,4,How can I fix Gnome-shell?,2
+how to install windows 8 pro after installing ubuntu 14.04,"After installing Ubuntu 14.04, how to install Windows 8 Pro",4,"After installing Ubuntu 14.04, how can I install Windows 8 Pro?",4
+how to save command line output to text file ?,"To save command line output to text file, how to do it?",4,How can I save command line output to a text file?,4
+gparted - increase ext4 partition using unallocated space,"Using unallocated space, increase ext4 partition with gparted",4,How can I increase the ext4 partition using unallocated space in Gparted?,4
+how do i encrypt ext4 home folder partition ?,"Encrypt ext4 home folder partition, how do I do it?",4,How can I encrypt the ext4 home folder partition?,4
+why does battery power drain quicker in ubuntu compared to windows in dell inspiron ?,"In Dell Inspiron, why does battery power drain quicker in Ubuntu compared to Windows?",4,"In Dell Inspiron, why is battery power draining faster in Ubuntu compared to Windows?",4
+weather indicator app stopped working,The weather indicator app stopped working.,4,"Working, the weather indicator app stopped.",2
+skype crashes after installing ubuntu 13.04,"After installing Ubuntu 13.04, Skype crashes.",4,"After installing Ubuntu 13.04, Skype crashes.",4
+how to reset gnome panel ?,How to reset the gnome panel?,4,How to reset Gnome panel?,3
+how to get flash working on abuntu 13.10,How to get Flash working on Ubuntu 13.10?,4,How can Flash be enabled on Ubuntu 13.10?,2
+"fresh install of xubuntu on an acer travelmate 2410 , system will not reboot or shutdown","After a fresh install of Xubuntu on an Acer Travelmate 2410, the system will not reboot or shutdown.",3,"On an Acer Travelmate 2410, fresh install of Xubuntu, the system refuses to shutdown or reboot.",3
+how to map right windows key to backspace ?,how to map backspace to right windows key ?,4,How can the right Windows key be mapped to backspace?,2
+notification on unity after i3 desktop removal,notification after i3 desktop removal on unity,4,"After removing the i3 desktop, Unity notifications persist.",2
+software to easily and quickely create colorful and intuitive review sheets,software to create colorful and intuitive review sheets easily and quickly,4,What software can I use to create review sheets that are both colorful and intuitive?,3
