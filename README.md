@@ -54,3 +54,15 @@ Run a demo to see if you can run this project successfully. Then replace your fi
 ```python
 python collect.py
 ```
+
+# Citation
+
+```
+@article{zhang2023well,
+  title={How Well Do Text Embedding Models Understand Syntax?},
+  author={Zhang, Yan and Feng, Zhaopeng and Teng, Zhiyang and Liu, Zuozhu and Li, Haizhou},
+  journal={arXiv preprint arXiv:2311.07996},
+  year={2023}
+}
+```
+
