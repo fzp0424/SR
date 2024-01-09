@@ -56,9 +56,7 @@ python collect.py
 ```
 
 # Citation
-
 ```
-
 @inproceedings{zhang2023well,
   title={How Well Do Text Embedding Models Understand Syntax?},
   author={Zhang, Yan and Feng, Zhaopeng and Teng, Zhiyang and Liu, Zuozhu and Li, Haizhou},
@@ -66,6 +64,5 @@ python collect.py
   pages={9717--9728},
   year={2023}
 }
-
 ```
 
