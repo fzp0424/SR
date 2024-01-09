@@ -58,11 +58,14 @@ python collect.py
 # Citation
 
 ```
-@article{zhang2023well,
+
+@inproceedings{zhang2023well,
   title={How Well Do Text Embedding Models Understand Syntax?},
   author={Zhang, Yan and Feng, Zhaopeng and Teng, Zhiyang and Liu, Zuozhu and Li, Haizhou},
-  journal={arXiv preprint arXiv:2311.07996},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
+  pages={9717--9728},
   year={2023}
 }
+
 ```
 
